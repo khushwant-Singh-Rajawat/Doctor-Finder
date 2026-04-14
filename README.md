@@ -1,4 +1,4 @@
-# 🏥 Doctor Finder Web Application
+# 🏥 Doctor Finder Full Stack Web Application
 
 ## 📌 Project Overview
 Doctor Finder is a full stack web application designed to help users easily find and connect with doctors based on their specialization and location. The system provides a simple and interactive interface for searching doctors and viewing their details.
