@@ -1,0 +1,18 @@
+SMAP
+HospitalReg_jsp.java
+JSP
+*S JSP
+*F
++ 0 a1.jsp
+Admin/a1.jsp
++ 1 HospitalReg.jsp
+Admin/HospitalReg.jsp
++ 2 a2.jsp
+Admin/a2.jsp
+*L
+1,30:50
+32,40:82
+71,79:122
+1#1,42:201
+1#2,55:242
+*E
