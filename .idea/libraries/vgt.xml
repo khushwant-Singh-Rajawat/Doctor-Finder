@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="vgt">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AdminReg/build/web/WEB-INF/lib/vgt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

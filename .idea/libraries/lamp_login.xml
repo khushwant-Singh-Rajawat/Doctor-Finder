@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lamp_login">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lamp_login.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
